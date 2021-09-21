@@ -1,2 +1,3 @@
-# project-rnDeusQ
-initially focussing on Qubes development (hence the Q)
+# project rootNoob Deus (Q)
+on Qubes development (hence the Q)
+
