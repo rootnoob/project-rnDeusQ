@@ -1,4 +1,4 @@
-| Category | Percentage of Dev Time - (transparent, always)                                                  |
+| Percentage of Dev Time - (transparent, always) |  Category                                                 |
 |----------|-------------------------------------------------------------------------------------------------|
 | 10%      | open-source, (no-revenue*): consultancy (for tasks marked 'need-help', *unless bounty attached) |
 | 10%      | open-source, for-profit: consultancy                                                            |
