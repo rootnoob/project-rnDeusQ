@@ -1,5 +1,6 @@
 # project rootNoob Deus (Q*)  
 *initially focussing on Qubes development (hence the Q)  
+Update: Name embargoed - currently brainstorming.  
 
 Development with a radically different business model*.  
 We charge only for the 'time-target bonus' - everything else is on a cost-basis.  
